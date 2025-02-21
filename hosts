@@ -1,0 +1,3 @@
+[gsi-machine]
+192.168.136.128 ansible_user=gsi-machine
+
